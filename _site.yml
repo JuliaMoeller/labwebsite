@@ -4,7 +4,7 @@ output_dir: "docs"
 output:  
   html_document:  
     self_contained: no  
-    theme: flatly  
+    theme: cosmo
 navbar:  
   title: "Study difference lab"
   right:
@@ -12,7 +12,6 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "People"
-      icon: fa-user-circle
       href: people.html
       menu:
        - text: "Principal investigator"
@@ -22,7 +21,6 @@ navbar:
        - text: "Undergraduates"
          href: ug.html
     - text: "Research"
-      icon: fa-brain
       href: research.html
     - text: "Join Us"
       icon: fa-user-plus
