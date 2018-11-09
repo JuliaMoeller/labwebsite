@@ -7,3 +7,19 @@ output:
     theme: flatly  
 navbar:  
   title: "Study difference lab"
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "People"
+      href: people.html
+      menu:
+       - text: "Principal investigator"
+         href: paterson.html
+       - text: "Postgraduates"
+         href: pgt.html
+       - text: "Undergraduates"
+         href: ug.html
+    - text: "Research"
+      href: research.html
+    - text: "Join Us"
+      href: join.html
