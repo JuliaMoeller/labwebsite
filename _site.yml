@@ -9,8 +9,10 @@ navbar:
   title: "Study difference lab"
   right:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "People"
+      icon: fa-user-circle
       href: people.html
       menu:
        - text: "Principal investigator"
@@ -20,6 +22,8 @@ navbar:
        - text: "Undergraduates"
          href: ug.html
     - text: "Research"
+      icon: fa-brain
       href: research.html
     - text: "Join Us"
+      icon: fa-user-plus
       href: join.html
