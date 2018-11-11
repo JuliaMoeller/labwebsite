@@ -1,5 +1,5 @@
 ---
-title: "Undergraduates"
+title: "Undergraduate students"
 
 ---
 
