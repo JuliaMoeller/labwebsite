@@ -2,9 +2,12 @@
 title: "Research"
 
 ---
+<br>
 
 ### Human Cognition, Representation, and Development of Dynamic Social Events. 
 Our every-day world changes constantly, resulting in a dynamic tapestry of events that we must somehow make sense of and interact with. Of the most interesting signals in our dynamic world, are the social signals that allow us to interact with other humans. It seems that the process by which we attribute personality traits, emotions, motivations and intentions is effortless and unconscious. This has lead to some interesting demonstrations whereby non-human animated objects can appear to have the same qualities as humans. This raises the question, how are dynamic social events represented by the human cognitive system. More importantly, how do we develop our representations of social events and the accompanying stereotypes and biases? 
+<br>
+<br>
 
 ### Teaching Psychology with Open Science. 
 With Open Science practices forming an important cornerstone in the advancement of science, it has become increasingly evident that we should be incorporating these practices into the way that science is taught. Examples span from the educational practices that adopt o the kinds of activities that we do and my research is centred on how we can incorporate the practices and philosophy of Open into our teaching. 

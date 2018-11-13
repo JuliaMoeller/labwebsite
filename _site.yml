@@ -5,8 +5,9 @@ output:
   html_document:
     self_contained: no  
     theme: readable
+    css: style.css
 navbar:  
-  title: "Study difference lab"
+  title: "STUDY DIFFERENCE LAB"
   right:
     - text: "Home"
       icon: fa-home

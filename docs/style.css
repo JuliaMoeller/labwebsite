@@ -1,0 +1,20 @@
+h1{
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-size: 30px !important;
+}
+h2, h3, h4{
+  color: #FFB224;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-size: 24px;
+}
+
+p{
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+}
+
+.wrap {
+  width: 700px;
+  margin: auto;
+}
+
