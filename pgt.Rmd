@@ -1,9 +1,6 @@
 ---
 title: "Postgraduate students"
-
 ---
-<br>
-
 ## Julia Moeller
 
 <img src="images/julia.jpg" style="width:80mm; margin-right: 20px" align="left">
@@ -12,3 +9,4 @@ I completed my BSc in Psychology from the [University of Glasgow](https://www.gl
 <br>
 <br>
 <i class="fa fa-twitter fa-lg"></i> [JME_Moeller](https://twitter.com/jme_moeller)
+<i class="fa fa-envelope"></i> <a href="mailto:2092501m@student.gla.ac.uk">Julia Moeller</a>
