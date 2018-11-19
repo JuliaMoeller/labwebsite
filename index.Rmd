@@ -1,27 +1,23 @@
 ---
 ---
+<br>
 <center>
 
 ![](images/intro2.jpg){ width=175mm }
 
 </center>
 
-<br>
-<br>
+<br><br>
 
 <center>
 
 ## Welcome!
 
-The Study Difference Lab is located in the [School of Psychology](https://www.gla.ac.uk/schools/psychology/) at the University of Glasgow. We use innovalte and fun ways to study person perception and we are especially interested in developing adaptable paradigms to study how children perceive their peers. We proudly endorse the [Open Science Community](https://cos.io) by taking our research out in communities and making our methods transparent and reproducible.
+The Study Difference Lab is located in the [School of Psychology](https://www.gla.ac.uk/schools/psychology/) at the University of Glasgow. We use innovative and fun ways to study person perception and we are especially interested in developing adaptable paradigms to study how children perceive their peers. We proudly endorse the [Open Science Community](https://cos.io) by taking our research out in communities and making our methods transparent and reproducible.
 
 </center>
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br>
 
 -----
 
