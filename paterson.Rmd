@@ -7,8 +7,7 @@ title: "Principal investigator"
 <img src="images/HP.jpg" style="width:90mm; margin-right: 20px" align="left">
 
 In September 2003 I started a 3-year British Academy Post-Doctoral Fellowship, and previously I completed a PhD Thesis in the [Department of Psychology at the University of Glasgow](https://www.gla.ac.uk/schools/psychology/) and worked as a Post-Doc for Dr. Frank Pollick on an ESRC funded project. Currently, I am a lecturer in the School of Psychology with a responsibility for teaching Research Methods, lecturing in Social Psychology and introducing students to the Brain. 
-<br>
-<br>
+<br><br>
 My main interest is in Dynamic Person Perception and this covers both attribution such as first impressions, but also emotion perception and measuring attitudes. I also do pedagogical research related to learning and teaching with technology. 
 
 <i class="fa fa-twitter fa-lg"></i> [PatersonHelena](https://twitter.com/patersonhelena?lang=en)

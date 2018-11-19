@@ -7,7 +7,7 @@
 
 </center>
 
-<br><br>
+<br>
 
 <center>
 
@@ -18,10 +18,3 @@ The Study Difference Lab is located in the [School of Psychology](https://www.gl
 </center>
 
 <br><br><br>
-
------
-
-##### Collaborators
-<br>
-[![](images/riverside.jpeg){ width=35mm }](https://www.glasgowlife.org.uk/museums/venues/riverside-museum) [![](images/gsc.jpg){ width=25mm  }](https://www.glasgowsciencecentre.org) 
-<br>
