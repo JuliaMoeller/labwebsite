@@ -20,9 +20,11 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -31,10 +33,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -89,6 +93,9 @@ img {
 }
 .tabbed-pane {
   padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
 }
 button.code-folding-btn:focus {
   outline: none;
@@ -235,7 +242,24 @@ $(document).ready(function () {
 </div>
 
 
-
+<div id="sarah-mclaughlin" class="section level2">
+<h2>Sarah McLaughlin</h2>
+<p><img src="images/sarah.jpg" style="width:50mm; margin-right: 20px" align="left"></p>
+<p>Hi! My name is Sarah and I am a 4th year undergraduate student at the <a href="https://www.gla.ac.uk">University of Glasgow</a> in the School of Psychology. During my first two years I also studied philosophy and history.<br> My broader research interests are investigating the development of attitudes and stereotyping in children. My dissertation is supervised by Dr. Helena Paterson and we are studying the uncanney valley phenomenon. <br><br> <i class="fa fa-envelope"></i> <a href="mailto:2025041M@student.gla.ac.uk">Sarah McLaughlin</a> <br><br></p>
+<hr />
+</div>
+<div id="caitlin-moran" class="section level2">
+<h2>Caitlin Moran</h2>
+<p><img src="images/caitlin.jpg" style="width:50mm; margin-right: 20px" align="left"></p>
+<p>My name is Caitlin and I am a final year undergraduate psychology student at the <a href="https://www.gla.ac.uk">University of Glasgow</a>. I am in the process of completing my MA in psychology, and in my first and second year I also studied history and theology. My dissertation project is supervised by Dr. Helena Paterson and we are looking at the development of attitudes in children and their parents. <br><br> <i class="fa fa-envelope"></i> <a href="mailto:2199840M@student.gla.ac.uk">Caitlin Moran</a> <br><br></p>
+<hr />
+</div>
+<div id="katie-talbot" class="section level2">
+<h2>Katie Talbot</h2>
+<p><img src="images/Katie.png" style="width:50mm; margin-right: 20px" align="left"></p>
+<p>I am an 4th year Undergraduate Psychology student at the <a href="https://www.gla.ac.uk">University of Glasgow</a>. I am currently in my fourth and final year, and will graduate in May (2019) with a BSc in Psychology. <br> As part of my final year I am required to complete a Dissertation. I am carrying out my research in the area of Social Psychology. The research aims to investigate the implicit attitudes of individuals towards their peers with Down Syndrome and the project is supervised by Dr. Helena Paterson.<br />
+<br> <i class="fa fa-envelope"></i> <a href="mailto:2195717T@student.gla.ac.uk">Katie Talbot</a></p>
+</div>
 
 <!DOCTYPE html>
 <hr />

@@ -20,9 +20,11 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -31,10 +33,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -89,6 +93,9 @@ img {
 }
 .tabbed-pane {
   padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
 }
 button.code-folding-btn:focus {
   outline: none;
@@ -238,7 +245,7 @@ $(document).ready(function () {
 <div id="julia-moeller" class="section level2">
 <h2>Julia Moeller</h2>
 <p><img src="images/julia.jpg" style="width:50mm; margin-right: 20px" align="left"></p>
-<p>I completed my BSc in Psychology from the <a href="https://www.gla.ac.uk">University of Glasgow</a>, UK in 2018 where my main area or study was social psychology. For my undergraduate dissertation I was upervised by Dr. Helena Paterson and we studied factors that influence the development of a child’s implicit gender stereotypes, with a specific interest in parental influence. I am currently a PGT student in <a href="https://www.gla.ac.uk/postgraduate/taught/psychologicalscienceresearchmethodsof/">Research Methods of Psychological Science</a> where I have shifted my focus to study how children perceive peers with visible intellectual disabilities in addition to exploring new and fun ways to study children’s attitudes. <br><br> <i class="fa fa-twitter fa-lg"></i> <a href="https://twitter.com/jme_moeller">JME_Moeller</a> <br> <i class="fa fa-envelope"></i> <a href="mailto:2092501m@student.gla.ac.uk">Julia Moeller</a> <br></p>
+<p>I completed my BSc in Psychology from the <a href="https://www.gla.ac.uk">University of Glasgow</a>, UK in 2018 where my main area or study was social psychology. For my undergraduate dissertation I was upervised by <a href="#helena">Dr. Helena Paterson</a> and we studied factors that influence the development of a child’s implicit gender stereotypes, with a specific interest in parental influence. I am currently a PGT student in <a href="https://www.gla.ac.uk/postgraduate/taught/psychologicalscienceresearchmethodsof/">Research Methods of Psychological Science</a> where I have shifted my focus to study how children perceive peers with visible intellectual disabilities in addition to exploring new and fun ways to study children’s attitudes. <br><br> <i class="fa fa-twitter fa-lg"></i> <a href="https://twitter.com/jme_moeller">JME_Moeller</a> <br> <i class="fa fa-envelope"></i> <a href="mailto:2092501m@student.gla.ac.uk">Julia Moeller</a> <br></p>
 </div>
 
 <!DOCTYPE html>

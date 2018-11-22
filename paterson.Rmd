@@ -2,7 +2,8 @@
 title: "Principal investigator"
 ---
 
-## Helena Paterson, PhD
+
+## <a id="helena"></a>Helena Paterson, PhD
 
 <img src="images/HP.jpg" style="width:90mm; margin-right: 20px" align="left">
 

@@ -1,5 +1,37 @@
 ---
 title: "Undergraduate students"
+---
+
+## Sarah McLaughlin
+
+<img src="images/sarah.jpg" style="width:50mm; margin-right: 20px" align="left">
+
+Hi! My name is Sarah and I am a 4th year undergraduate student at the [University of Glasgow](https://www.gla.ac.uk) in the School of Psychology. During my first two years I also studied philosophy and history.<br> 
+My broader research interests are investigating the development of attitudes and stereotyping in children. My dissertation is supervised by Dr. Helena Paterson and we are studying the uncanney valley phenomenon.
+<br><br>
+<i class="fa fa-envelope"></i> <a href="mailto:2025041M@student.gla.ac.uk">Sarah McLaughlin</a>
+<br><br>
 
 ---
 
+## Caitlin Moran
+
+<img src="images/caitlin.jpg" style="width:50mm; margin-right: 20px" align="left">
+
+My name is  Caitlin and I am a final year undergraduate psychology student at the [University of Glasgow](https://www.gla.ac.uk). I am in the process of completing my MA in psychology, and in my first and second year I also studied history and theology.
+My dissertation project is supervised by Dr. Helena Paterson and we are looking at the development of attitudes in children and their parents. 
+<br><br>
+<i class="fa fa-envelope"></i> <a href="mailto:2199840M@student.gla.ac.uk">Caitlin Moran</a>
+<br><br>
+
+---
+
+## Katie Talbot
+
+<img src="images/Katie.png" style="width:50mm; margin-right: 20px" align="left">
+
+I am an 4th year Undergraduate Psychology student at the [University of Glasgow](https://www.gla.ac.uk). I am currently in my fourth and final year, and will graduate in May (2019) with a BSc in Psychology. 
+<br>
+As part of my final year I am required to complete a Dissertation. I am carrying out my research in the area of Social Psychology. The research aims to investigate the implicit attitudes of individuals towards their peers with Down Syndrome and the project is supervised by Dr. Helena Paterson.  
+<br>
+<i class="fa fa-envelope"></i> <a href="mailto:2195717T@student.gla.ac.uk">Katie Talbot</a>
