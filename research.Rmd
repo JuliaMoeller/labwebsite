@@ -1,13 +1,31 @@
 ---
 title: "Research"
-
 ---
 <br>
 
 ### Human Cognition, Representation, and Development of Dynamic Social Events. 
 Our every-day world changes constantly, resulting in a dynamic tapestry of events that we must somehow make sense of and interact with. Of the most interesting signals in our dynamic world, are the social signals that allow us to interact with other humans. It seems that the process by which we attribute personality traits, emotions, motivations and intentions is effortless and unconscious. This has lead to some interesting demonstrations whereby non-human animated objects can appear to have the same qualities as humans. This raises the question, how are dynamic social events represented by the human cognitive system. More importantly, how do we develop our representations of social events and the accompanying stereotypes and biases? 
-<br>
-<br>
+<br><br>
 
-### Teaching Psychology with Open Science. 
-With Open Science practices forming an important cornerstone in the advancement of science, it has become increasingly evident that we should be incorporating these practices into the way that science is taught. Examples span from the educational practices that adopt o the kinds of activities that we do and my research is centred on how we can incorporate the practices and philosophy of Open into our teaching. 
+### Gender stereotypes.
+My dissertation is looking at the development of attitudes in children and their parents. Specifically, I am looking gender stereotypes in children and the influence their parents stereotypes have on this. I am carrying out my research in the Riverside Museum in Glasgow.
+<br><br>
+
+### Uncanny Valley
+<img src="images/uncannyv.jpg" style="width:60mm; margin-right: 20px" 
+align="left">
+
+The Uncanny Valley phenomenon is the creepy or unsettling feeling that we experience when exposed to a robot with a certain degree of human-like characteristics. Current research indicates that the phenomenon develops throughout childhood, as young children do not find human-like robots to be more weird or creepy than machine-like robots. However, the Uncanny Valley is under-researched in children and further exploration is needed. Our study will replicate and modify Brink, Gray & Wellman’s study (2017) where children will watch videos of two different robots and answer questions about their perception of the robot. 
+
+Brink, K., Gray, K., & Wellman, H. (2017). Creepiness Creeps In: Uncanny Valley Feelings Are Acquired in Childhood. Child Development. doi: 10.1111/cdev.
+
+<br><br>
+
+### Perception of visible intellectual disabilities
+ I will explore whether individuals show an in-group bias, meaning a preference for individuals with similarities to themselves, or not. In order to assess these attitudes, I am developing a new Single-Target Implicit Associations Test (ST-IAT). The ST-IAT works by detecting the strength of a person’s automatic association between mental representations of objects in memory. 
+
+As part of my Dissertation I will evaluate this new measure, and will discuss the possibility of using it in the future to assess attitudes towards different target groups. These groups include individuals with visible intellectual disabilities different to Down Syndrome, and individuals with facial scarring. Furthermore, I will assess whether there is any possibility of using the measure with different participant groups, such as young children.
+<br><br>
+
+### Research with fun, games and Open Science
+
