@@ -8,7 +8,6 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "People"
-      href: people.html
       icon: fa-users
       menu:
        - text: "Principal investigator"
@@ -20,9 +19,6 @@ navbar:
     - text: "Research"
       href: research.html
       icon: fa-eye
-    - text: "Join Us"
-      icon: fa-user-plus
-      href: join.html
 output:  
   html_document:
     self_contained: no  
