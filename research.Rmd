@@ -17,14 +17,15 @@ align="left">
 
 The Uncanny Valley phenomenon is the creepy or unsettling feeling that we experience when exposed to a robot with a certain degree of human-like characteristics. Current research indicates that the phenomenon develops throughout childhood, as young children do not find human-like robots to be more weird or creepy than machine-like robots. However, the Uncanny Valley is under-researched in children and further exploration is needed. Our study will replicate and modify Brink, Gray & Wellman’s study (2017) where children will watch videos of two different robots and answer questions about their perception of the robot. 
 
-Brink, K., Gray, K., & Wellman, H. (2017). Creepiness Creeps In: Uncanny Valley Feelings Are Acquired in Childhood. Child Development. doi: 10.1111/cdev.
+<font size = "1.5">Brink, K., Gray, K., & Wellman, H. (2017). Creepiness Creeps In: Uncanny Valley Feelings Are Acquired in Childhood. Child Development. doi: 10.1111/cdev.</font>
 
 <br><br>
 
 ### Perception of visible intellectual disabilities
- I will explore whether individuals show an in-group bias, meaning a preference for individuals with similarities to themselves, or not. In order to assess these attitudes, I am developing a new Single-Target Implicit Associations Test (ST-IAT). The ST-IAT works by detecting the strength of a person’s automatic association between mental representations of objects in memory. 
+<img src="images/inclusion.png" style="width:60mm; margin-right: 20px" 
+align="left">
 
-As part of my Dissertation I will evaluate this new measure, and will discuss the possibility of using it in the future to assess attitudes towards different target groups. These groups include individuals with visible intellectual disabilities different to Down Syndrome, and individuals with facial scarring. Furthermore, I will assess whether there is any possibility of using the measure with different participant groups, such as young children.
+It is important to explore the attitudes of children towards their peers with Intellectual Disabilities (IDs) in order to guide the integration and acceptance of these individuals within social and educational settings. The use of integrated, rather than segregated, educational classes in primary schools has been found to promote positive attitudes of non-disabled children towards their peers with Down Syndrome. These findings highlight the need to establish a valid and reliable measure of assessing the implicit attitudes of individuals towards people with Down Syndrome, and in particular the attitudes of primary school age children, due to this being such an influential stage in their lives. We will tap into different layers of stigma against children with ID by studying neurotypical children’s implicit attitudes towards ID peers and their playmate choice based on perceived facial similarity.
 <br><br>
 
 ### Research with fun, games and Open Science
