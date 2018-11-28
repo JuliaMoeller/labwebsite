@@ -2,12 +2,16 @@ h1{
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   font-size: 30px !important;
 }
-h2, h3, h4{
+h2{
   color: #FFB224;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   font-size: 24px;
 }
-
+h3{
+  color: #a1a3a8;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-size: 20px;
+}
 p{
   font-family: "Arial", sans-serif;
   font-size: 14px;
