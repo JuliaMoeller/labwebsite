@@ -14,4 +14,3 @@ My main interest is in Dynamic Person Perception and this covers both attributio
 <i class="fa fa-twitter fa-lg"></i> [PatersonHelena](https://twitter.com/patersonhelena?lang=en)
 <br>
 <i class="fa fa-envelope"></i> <a href="mailto:helena.paterson@glasgow.ac.uk">Helena Paterson</a>
-

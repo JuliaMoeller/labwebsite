@@ -21,8 +21,8 @@ navbar:
       icon: fa-eye
 output:  
   html_document:
-    self_contained: no  
+    self_contained: false
     theme: readable
-    include:
-      after_body: footer.html 
+    includes:
+      after_body: _footer.html
     css: style.css
